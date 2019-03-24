@@ -6,11 +6,11 @@
   sports=["basketball","football"]
   end
  def first_element(array)
-   array(0)
+   array[0]
  end
  def third_element(array)
-   array(2)
+   array[2]
  end
  def last_element(array)
-   array(-1)
+   array[-1]
  end
