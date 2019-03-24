@@ -1,5 +1,5 @@
 
-  def instantiating
+  def instantiate_new_arry
     []
   end
   def array_with_two elements
